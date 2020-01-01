@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-01T10:16:29Z" name="Suite" finished-at="2020-01-01T10:18:02Z" duration-ms="92847">
+    <groups>
+    </groups>
+    <test started-at="2020-01-01T10:16:29Z" name="Test" finished-at="2020-01-01T10:18:02Z" duration-ms="92847">
+      <class name="amazonFlipkartPrice.IphonePriceTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:amazonFlipkartPrice.IphonePriceTest@2ea41516]" started-at="2020-01-01T10:17:43Z" name="configBc" finished-at="2020-01-01T10:17:52Z" duration-ms="9552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method signature="iphonePriceCompareTest()[pri:0, instance:amazonFlipkartPrice.IphonePriceTest@2ea41516]" started-at="2020-01-01T10:17:52Z" name="iphonePriceCompareTest" finished-at="2020-01-01T10:18:01Z" duration-ms="8360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphonePriceCompareTest -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:amazonFlipkartPrice.IphonePriceTest@2ea41516]" started-at="2020-01-01T10:18:01Z" name="configAc" finished-at="2020-01-01T10:18:02Z" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- amazonFlipkartPrice.IphonePriceTest -->
+      <class name="tripAdvisorTest.RatingTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:tripAdvisorTest.RatingTest@3ee37e5a]" started-at="2020-01-01T10:16:29Z" name="configBc" finished-at="2020-01-01T10:16:47Z" duration-ms="18447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method signature="ratingTest()[pri:0, instance:tripAdvisorTest.RatingTest@3ee37e5a]" started-at="2020-01-01T10:16:48Z" name="ratingTest" finished-at="2020-01-01T10:17:42Z" duration-ms="54257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ratingTest -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:tripAdvisorTest.RatingTest@3ee37e5a]" started-at="2020-01-01T10:17:42Z" name="configAc" finished-at="2020-01-01T10:17:43Z" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- tripAdvisorTest.RatingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
